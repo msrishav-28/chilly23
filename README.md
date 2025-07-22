@@ -9,18 +9,18 @@
 
 <h2>Socials:</h2>
 
-<p align="left">
-  <a href="https://www.instagram.com/velaneeeee/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="32">
+<p align="center">
+  <a href="https://www.instagram.com/velaneeeee/" target="_blank">
+    <img height="36" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/velan-e-40141721b">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32">
+  <a href="https://www.linkedin.com/in/velan-e-40141721b" target="_blank">
+    <img height="36" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/chilly_444">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" height="32">
+  <a href="https://x.com/chilly_444" target="_blank">
+    <img height="36" src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:velane929@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32">
+  <a href="mailto:velane929@gmail.com" target="_blank">
+    <img height="36" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
