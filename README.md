@@ -1,4 +1,6 @@
 # Yo, I'm Velan 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ffaa&size=30&center=true&vCenter=true&width=1000&lines=Yo,+I'm+Velan.)](https://git.io/typing-svg)
+
 
 - CS at Christ University, BLR, IND<br>
 - Computer software and Hardware engineer<br>
