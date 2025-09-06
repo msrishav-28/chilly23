@@ -5,7 +5,7 @@
     <td style="width: 45%; border: none; vertical-align: top;">
 
 - CS at Christ University, BLR, IND  
-- Computer Software and Hardware Engineer  
+- Computer Software and Hardware Engineer                           
 - From Missile Systems to Microchips  
 - Also I make art [Instagram](https://www.instagram.com/velaneeeee/)  
 
