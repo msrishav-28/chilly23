@@ -1,10 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=abc&size=35&center=true&vCenter=true&width=1000&lines=Yo,+I'm+Velan.)](https://git.io/typing-svg)
 
 
-- CS at Christ University, BLR, IND<br>
-- Computer software and Hardware engineer<br>
-- From Missile systems to Microchips<br>
-- Also I make art [Instagram](https://www.instagram.com/velaneeeee/)<br>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+
+  - 🎓 CS at Christ University, BLR, IND  
+  - 💻 Computer Software and Hardware Engineer  
+  - 🚀 From Missile Systems to Microchips  
+  - 🎨 Also I make art [Instagram](https://www.instagram.com/velaneeeee/)  
+
+  </div>
+
+  <div>
+    <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" 
+         style="width: 150px; height:auto;"/>
+  </div>
+
+</div>
 
 
 ## Socials:
@@ -78,10 +90,6 @@
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
-<img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
-<img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
-<img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chilly23&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
