@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=abc&size=35&center=true&vCenter=true&width=1000&lines=Yo,+I'm+Velan.)](https://git.io/typing-svg)
 
-<table style="width:100%">
+<table>
   <tr>
-    <td style="vertical-align: top; width: 60%;">
+    <td style="vertical-align: top; width: 55%;">
 
 - 🎓 CS at Christ University, BLR, IND  
 - 💻 Computer Software and Hardware Engineer  
@@ -10,11 +10,13 @@
 - 🎨 Also I make art [Instagram](https://www.instagram.com/velaneeeee/)  
 
     </td>
-    <td style="width: 100%;">
+    <td style="width: 5%;">&nbsp;</td> <!-- empty spacer -->
+    <td style="width: 40%;">
       <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" height="200px" />
     </td>
   </tr>
 </table>
+
 
 
 ## Socials:
