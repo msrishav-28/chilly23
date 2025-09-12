@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=abc&size=35&center=true&vCenter=true&width=1000&lines=Yo,+I'm+Velan.)](https://git.io/typing-svg)
 
-<table style="border: none; width: 100%; background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf_wXS32cgdQYN0WyNPiWvlxYuW0w_uhm7yA&s') no-repeat center/cover;">
+<table style="border: none; width: 100%;">
   <tr style="border: none;">
     <td style="width: 45%; border: none; vertical-align: top;">
 
