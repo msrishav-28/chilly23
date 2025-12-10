@@ -101,7 +101,7 @@
 ![Statistics](https://img.shields.io/badge/Statistics-%232E7D32.svg?style=for-the-badge)
 ![Discrete Math](https://img.shields.io/badge/Discrete%20Math-%23EF6C00.svg?style=for-the-badge)
 ![HPC](https://img.shields.io/badge/HPC-%23004080.svg?style=for-the-badge)
-![Quantitative analytics](https://img.shields.io/badge/Quantitative%20analytics-%000000.svg?style=for-the-badge)
+![Quant Analytics](https://img.shields.io/badge/Quant_Analytics-%23000000.svg?style=for-the-badge)
 ![Graph Theory](https://img.shields.io/badge/Graph%20Theory-%23004D40.svg?style=for-the-badge)
 ![Simulation](https://img.shields.io/badge/Simulation-%23D84315.svg?style=for-the-badge)
 ![FPGA](https://img.shields.io/badge/FPGA-%23007396.svg?style=for-the-badge&logo=amd&logoColor=white)
