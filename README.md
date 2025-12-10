@@ -84,6 +84,26 @@
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![ARM Cortex](https://img.shields.io/badge/ARM%20Cortex-%23009688.svg?style=for-the-badge)
+![RTOS](https://img.shields.io/badge/RTOS-%232196F3.svg?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-%23F00000.svg?style=for-the-badge&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-%2300487D.svg?style=for-the-badge&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-%23007396.svg?style=for-the-badge&logo=amd&logoColor=white)
+![VLSI](https://img.shields.io/badge/VLSI-%234B0082.svg?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%2300599C.svg?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-%23FFD600.svg?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-%2300ACC1.svg?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-%23005588.svg?style=for-the-badge)
+![Graph Theory](https://img.shields.io/badge/Graph%20Theory-%23004D40.svg?style=for-the-badge)
+![Simulation](https://img.shields.io/badge/Simulation-%23D84315.svg?style=for-the-badge)
+
+## Quant & Math
+![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-%23007ACC.svg?style=for-the-badge)
+![Probability](https://img.shields.io/badge/Probability-%23004D40.svg?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-%232E7D32.svg?style=for-the-badge)
+![Monte Carlo](https://img.shields.io/badge/MonteCarlo-%23EF6C00.svg?style=for-the-badge)
+![HPC](https://img.shields.io/badge/HPC-%23004080.svg?style=for-the-badge)
 
 ## Learning:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
