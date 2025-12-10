@@ -53,7 +53,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
@@ -62,6 +62,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-4E8DF5.svg?style=for-the-badge&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6D00.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
@@ -77,7 +78,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
@@ -88,22 +88,23 @@
 ![RTOS](https://img.shields.io/badge/RTOS-%232196F3.svg?style=for-the-badge)
 ![Verilog](https://img.shields.io/badge/Verilog-%23F00000.svg?style=for-the-badge&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-%2300487D.svg?style=for-the-badge&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-%23007396.svg?style=for-the-badge&logo=amd&logoColor=white)
 ![VLSI](https://img.shields.io/badge/VLSI-%234B0082.svg?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%2300599C.svg?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-%23FFD600.svg?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-%2300ACC1.svg?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![System Design](https://img.shields.io/badge/System%20Design-%23005588.svg?style=for-the-badge)
-![Graph Theory](https://img.shields.io/badge/Graph%20Theory-%23004D40.svg?style=for-the-badge)
-![Simulation](https://img.shields.io/badge/Simulation-%23D84315.svg?style=for-the-badge)
 
-## Quant & Math
+## Quant & Math: 
 ![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-%23007ACC.svg?style=for-the-badge)
 ![Probability](https://img.shields.io/badge/Probability-%23004D40.svg?style=for-the-badge)
 ![Statistics](https://img.shields.io/badge/Statistics-%232E7D32.svg?style=for-the-badge)
-![Monte Carlo](https://img.shields.io/badge/MonteCarlo-%23EF6C00.svg?style=for-the-badge)
+![Discrete Math](https://img.shields.io/badge/Discrete%20Math-%23EF6C00.svg?style=for-the-badge)
 ![HPC](https://img.shields.io/badge/HPC-%23004080.svg?style=for-the-badge)
+![Quantitative analytics](https://img.shields.io/badge/Quantitative%20analytics-%000000.svg?style=for-the-badge)
+![Graph Theory](https://img.shields.io/badge/Graph%20Theory-%23004D40.svg?style=for-the-badge)
+![Simulation](https://img.shields.io/badge/Simulation-%23D84315.svg?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-%23007396.svg?style=for-the-badge&logo=amd&logoColor=white)
 
 ## Learning:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
